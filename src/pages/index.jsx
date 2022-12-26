@@ -139,21 +139,21 @@ function Newsletter() {
 function Resume() {
   let resume = [
     {
-      company: 'NVTC',
-      title: 'CEO',
+      company: 'DEEZ NUT',
+      title: 'CEO/CFO',
       logo: logoPlanetaria,
-      start: '2019',
+      start: '2022',
       end: {
         label: 'Present',
         dateTime: new Date().getFullYear(),
       },
     },
     {
-      company: 'Airbnb',
+      company: 'CTVN',
       title: 'Product Designer',
-      logo: logoAirbnb,
-      start: '2014',
-      end: '2019',
+      logo: logoCTVN,
+      start: '2017',
+      end: '2022',
     },
     {
       company: 'Facebook',
@@ -251,7 +251,7 @@ export default function Home({ articles }) {
     <>
       <Head>
         <title>
-          Spencer Sharp - Software designer, founder, and amateur astronaut
+          Mohammed Hussain - Software designer at NVTC
         </title>
         <meta
           name="description"
