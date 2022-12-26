@@ -32,7 +32,7 @@ export default function Speaking() {
         <title>Speaking - Mohammed Hussain</title>
         <meta
           name="description"
-          content="I’ve spoken at events all around the world and been interviewed for many podcasts."
+          content="I Mohammed Hussain have spoken at events all around the world and been interviewed for many podcasts."
         />
       </Head>
       <SimpleLayout
