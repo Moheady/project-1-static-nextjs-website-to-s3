@@ -49,7 +49,7 @@ export default function Uses() {
             </Tool>
             <Tool title="Apple Pro Display XDR (Standard Glass)">
             The only display on the market if you want something HiDPI and bigger than 27”.
-            Every pixel counts when you're working on a planet-scale project.
+            Every pixel counts when you&apos;re working on a planet-scale project.
             </Tool>
             <Tool title="IBM Model M SSK Industrial Keyboard">
             Keyboard production has changed from previous generations. Every time I see them for sale,
