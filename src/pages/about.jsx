@@ -41,7 +41,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About - Spencer Sharp</title>
+        <title>About - Mohammed Hussain</title>
         <meta
           name="description"
           content="I’m Spencer Sharp. I live in New York City, where I design the future."
@@ -61,7 +61,7 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Spencer Sharp. I live in New York City, where I design the
+              I’m Mohammed Hussain. I live in Bahrain, where I design the
               future.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
@@ -86,7 +86,7 @@ export default function About() {
                 photo back down to our family computer from space.
               </p>
               <p>
-                Today, I’m the founder of Planetaria, where we’re working on
+                Today, I’m the founder of DEEZ, where we’re working on
                 civilian space suits and manned shuttle kits you can assemble at
                 home so that the next generation of kids really <em>can</em>{' '}
                 make it to orbit — from the comfort of their own backyards.
@@ -112,7 +112,7 @@ export default function About() {
                 icon={MailIcon}
                 className="mt-8 border-t border-zinc-100 pt-8 dark:border-zinc-700/40"
               >
-                spencer@planetaria.tech
+                MohammedHussain@planetaria.tech
               </SocialLink>
             </ul>
           </div>
