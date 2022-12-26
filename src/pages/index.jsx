@@ -139,7 +139,7 @@ function Newsletter() {
 function Resume() {
   let resume = [
     {
-      company: 'DEEZ NUT',
+      company: 'DEEZ',
       title: 'CEO/CFO',
       logo: logoPlanetaria,
       start: '2022',
